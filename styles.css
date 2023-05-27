@@ -1,0 +1,88 @@
+* {
+    
+
+}
+html {
+    width: 100%;
+}
+
+body {
+    background-color:  white;
+}
+
+p {
+    font-family: Fredoka One;
+    color: lawngreen;
+    font-size: 30px;
+    text-align: center;
+}
+
+.centerLogo {
+    height: 80px;
+    width: 80px;
+    display: block;
+    margin: auto;
+}
+
+.centerForDiscord {
+    height: 80px;
+    width: 80px;
+    display: block;
+    top: 10px;
+    right: 3px;
+    bottom: 0;
+    position: absolute;
+}
+
+.robloxLogo {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+}
+
+#textBox p {
+    color: white;
+    font-family: Poppins;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-top: 0px;
+    position: static;
+}
+#textBox {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: Fredoka One;
+    font-size: 50px;
+    color: black;
+}
+
+.bracketsCustomization {
+    color:yellow
+}
+
+#friendBattlesTextArea {
+    background-color: lightgrey;
+    padding: 40px;
+
+}
+#friendBattlesTextArea p{
+    color: black;
+}
+
+.battleBrackets {
+    margin: auto;
+    display: block;
+    width: 500px;
+     
+}
+
+
+
+.creditsBoxArea {
+    color: red;
+    text-align: center;
+    font-size: 20px;
+}
